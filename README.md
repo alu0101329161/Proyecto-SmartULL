@@ -1,13 +1,13 @@
 # Proyecto-SmartULL
 Integrantes:
 
-Joseph Gabino Rodríguez --
+Joseph Gabino Rodríguez -- alu0101329161@ull.edu.es
 
-Juan García Santos --
+Juan García Santos -- alu0101325583@ull.edu.es
 
-Gerard Antony Caramazza Vilá --
+Gerard Antony Caramazza Vilá -- alu0101229775@ull.edu.es
 
-Jairo Alonso Abreu --
+Jairo Alonso Abreu -- alu0101330778@ull.edu.es
 
 # Enlaces
 ACP:
